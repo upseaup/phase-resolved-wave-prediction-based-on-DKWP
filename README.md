@@ -6,3 +6,16 @@ Besides, the codes are also in the link.
 You can run dkwp-random-s35-z450-dt04-ad-9-7.ipynb to train the model.    
 You can run dkwp-random-s35-z450-dt04-picture.ipynb to draw the predicted wave elevation by the DKWP.  
 
+Cite this work by
+@article{FENG2026204429,
+title = {A unidirectional phase-resolved wave prediction model based on deep Koopman embeddings},
+journal = {European Journal of Mechanics - B/Fluids},
+volume = {117},
+pages = {204429},
+year = {2026},
+issn = {0997-7546},
+doi = {https://doi.org/10.1016/j.euromechflu.2025.204429},
+url = {https://www.sciencedirect.com/science/article/pii/S0997754625002109},
+author = {Zhongying Feng and Ye Wang and Chenghao Fu and Ruipeng Li and Kun Zheng and Zhan Wang},
+keywords = {Phase-resolved wave prediction, Koopman theory, Machine learning},
+}
